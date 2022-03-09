@@ -1,0 +1,30 @@
+{
+  "name": "school-rpg",
+  "version": "1.0.0",
+  "description": "Um sistema voltado para aplicação em sala de aula, onde o aluno possa se sentir confortável para demonstrar seu ponto forte e para cooperar com seus colegas.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greedthestampede/School-RPG.git"
+  },
+  "keywords": [],
+  "author": "greedthestampede",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greedthestampede/School-RPG/issues"
+  },
+  "homepage": "https://github.com/greedthestampede/School-RPG#readme",
+  "dependencies": {
+    "next": "^12.1.0",
+    "nookies": "^2.5.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.3"
+  }
+}
