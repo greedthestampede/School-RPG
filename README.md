@@ -28,6 +28,8 @@ As classes servem para gerar XP **(*Pontos de Experiência*)** para o personagem
 
 Deixando claro que toda vez que o aluno fizer o objetivo da *Classe* ele ganha 1 XP. Mesmo o Mage, tendo acertado várias respostas dentro de uma atividade, para que o XP seja dado todas as respostas precisam ser corretas. É a dificuldade da *Classe* para que não tenha uma participação direta e/ou espontânea do aluno em sala.
 
+Para que haja um senso de grupo de RPG, como nas mesas, os alunos terão que se ajudar para ganharem seus XP's. Tem de estar claro para todos os envolvidos que sempre que um aluno performar o objetivo da sua classe, ele não irá receber os pontos diretamente. Algum outro aluno da sala deve perceber que ele cumpriu o objetivo e então apelar para você, que então concederá o ponto. No começo isso não será tão automático, então não tem problema relembrar os alunos de que eles tem de colaborar um com os outros para ganhar seus XP's, mas algo que deve ser desencorajado desde o princípio é um aluno pedir para que o outro avise o professor de que ele tem que receber seu ponto. Tem de ser algo genuíno.
+
 ### RANKING
 
 Existem cinco níveis de *Ranking* **(*Bronze / Silver / Gold / Ruby / Diamond*)** e todos os alunos começaram com seu personagem no *Ranking* *Bronze*. Toda vez que os alunos completaram os objetivos de suas classes até alcançarem 10 XP eles sobem de *Ranking* **(*De Bronze para Silver; De Silver para Gold...*)**.
