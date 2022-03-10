@@ -28,7 +28,15 @@ export const Texto = styled.p`
   margin: 5px;
 `;
 
-export const MeuLink = styled.a`
+export const Btn = styled.button`
+  background-color: rgba(15, 133, 97, 50%);
+  border: none;
   color: azure;
-  text-decoration: none;
+  padding: 5px 10px;
+  font-size: 12px;
+  margin-top: 5px;
+  align-items: center;
+  cursor: pointer;
+  transition: 0.3s ease-out;
+  border-radius: 100%;
 `;

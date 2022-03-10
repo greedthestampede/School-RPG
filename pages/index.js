@@ -1,7 +1,28 @@
+import { useState } from "react";
 import Head from "next/head";
-import { Conteudo, Entrada, MeuLink, Texto, Titulo } from "../src/components/tema";
+import { Btn, Conteudo, Entrada, Texto, Titulo } from "../src/components/tema";
 
 export default function Home() {
+  const [name, setName] = useState("");
+  const [classe, setClasse] = useState("");
+  const [ranking, setRanking] = useState("");
+  const [xp, setXP] = useState(0);
+  const [fp, setFP] = useState(0);
+  const sobeXP = () => setXP(xp + 1);
+  const desceXP = () => setXP(xp - 1);
+  const sobeFP = () => setFP(fp + 1);
+  const desceFP = () => setFP(fp - 1);
+
+  function handleNameChange(evento) {
+    setName(evento.target.value);
+  }
+  function handleClassChange(evento) {
+    setClasse(evento.target.value);
+  }
+  function handleRankingChange(evento) {
+    setRanking(evento.target.value);
+  }
+  
   return (
     <Conteudo>
       <Head>
@@ -12,22 +33,32 @@ export default function Home() {
         type="text"
         autoCapitalize="words"
         name="Name"
+        value={name}
+        onChange={handleNameChange}
         placeholder="Name"
       />
       <Entrada
         type="text"
         autoCapitalize="words"
         name="Class"
+        value={classe}
+        onChange={handleClassChange}
         placeholder="Class"
       />
       <Entrada
         type="text"
         autoCapitalize="words"
         name="Ranking"
+        value={ranking}
+        onChange={handleRankingChange}
         placeholder="Ranking"
       />
-      <Texto><MeuLink href="/">+</MeuLink> 0 <MeuLink href="/">-</MeuLink> (XP)</Texto>
-      <Texto><MeuLink href="/">+</MeuLink> 0 <MeuLink href="/">-</MeuLink> (FP)</Texto>
+      <Texto>
+        <Btn onClick={sobeXP}>+</Btn> {xp} <Btn onClick={desceXP}>-</Btn> (XP)
+      </Texto>
+      <Texto>
+        <Btn onClick={sobeFP}>+</Btn> {fp} <Btn onClick={desceFP}>-</Btn> (FP)
+      </Texto>
     </Conteudo>
   );
 }
