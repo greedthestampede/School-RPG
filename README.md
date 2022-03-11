@@ -2,7 +2,7 @@
 
 Um sistema voltado para aplicação em sala de aula, onde o aluno possa se sentir confortável para demonstrar seu ponto forte e para cooperar com seus colegas.
 
-DEMO
+[DEMO](https://school-rpg.vercel.app)
 
 O jogo será apresentado abaixo, o que terá na aplicação é uma ficha de personagem que é mantida apenas com os Cookies do navegador. Por enquanto só existe uma versão web, devido a limitação do programador.
 
