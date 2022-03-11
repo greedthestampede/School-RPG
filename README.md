@@ -9,7 +9,7 @@ O jogo será apresentado abaixo, o que terá na aplicação é uma ficha de pers
 ## TECNOLOGIAS
 
  - *Next.JS*
- - *Nookies* **(*parseCookie*)**
+ - *Nookies* **(*setCookie*, *parseCookie*)**
  - *StyledComponents*
 
 ## PASSO-A-PASSO DOS ELEMENTOS DE JOGO
