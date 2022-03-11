@@ -98,7 +98,7 @@ export default function Home(props) {
     });
   };
   const sobeFP = () => {
-    if (typeof xp === "number") {
+    if (typeof fp === "number") {
       setFP(fp + 1);
     } else {
       setFP(0);
