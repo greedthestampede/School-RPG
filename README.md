@@ -18,13 +18,15 @@ O sistema não é nem um pouco complexo, para que possa ser aplicado em turmas d
 
 ### CLASS
 
-Existem três classes que podem ser escolhidas pelos alunos, nesse primeiro momento. São elas Knight, Bard ou Mage. O aluno deve escolher apenas uma das classes, mas pode trocar se ele não se sentir confortável, no final da aula.
+Existem três classes que podem ser escolhidas pelos alunos, mais duas classes opcionais, que você pode acrescentar se fizer sentido na sala e você estiver confortável. As classes padrões são Knight, Bard e Mage. As classes opcionais são Rogue e Explorer. O aluno deve escolher apenas uma das classes, mas pode trocar se ele não se sentir confortável, no final da aula.
 
 As classes servem para gerar XP **(*Pontos de Experiência*)** para o personagem, que tem uma função que será elucidada no momento mais adequado. Abaixo estão uma descrição de como as classes ganham XP.
 
  - *Knight*: When helps another student. **(*Para alunos que gostam de ajudar.* / *O ponto é dado se a ajuda estiver correta*)**
  - *Bard*: When volunteers to talk. **(*Para alunos mais comunicativos* / *Só precisa comunicar quando o professor abrir pra participação da classe.*)**
- - *Mage*: When provides a right answer. **(*Para alunos mais introvertidos.* / *Unica classe que ganha ponto fora da sala de aula, se fizer as atividades de casa corretamente.*)**
+ - *Mage*: When answers right. **(*Para alunos mais introvertidos.* / *Unica classe que ganha ponto fora da sala de aula, se fizer as atividades de casa corretamente.*)**
+ - ***Rogue***: When corrects what the teacher says. **(*Para os alunos que gostam de desafiar o professor* / *Uma classe opcional para alunos que aprenderam aquele conteúdo de outra forma. Se ele também estiver certo, ou só ele estiver certo está valendo.*)**
+ - ***Explorer***: When searches and gives a correct answer from the internet **(*Para alunos que não conseguem manter a atenção por muito tempo* / *Uma classe opcional onde o aluno acha a resposta na internet e fala pra sala. Só funciona se for uma sala onde é possível os alunos terem o celular na mão.*)**
 
 Deixando claro que toda vez que o aluno fizer o objetivo da *Classe* ele ganha 1 XP. Mesmo o Mage, tendo acertado várias respostas dentro de uma atividade, para que o XP seja dado todas as respostas precisam ser corretas. É a dificuldade da *Classe* para que não tenha uma participação direta e/ou espontânea do aluno em sala.
 
@@ -44,7 +46,7 @@ Existem formas do Ranking diminuir também, como uma *Penalidade*, a do tipo mai
 
 Existem os dois tipos de pontuação. O XP **(*Pontos de Experiência*)** e o FP **(*Ponto de Fortuna*)** e cada é usado em uma situação. Para ser mais simples de explicar, dá pra imaginar que os esforços individuais serão recompensados com XP, como fazer o objetivo da *Classe*. Os esforços coletivos serão recompensados com FP, como fazer as *Quests*. **(*A explicação virá mais a baixo*)**.
 
-O único dever do XP, ao menos por hora, é acumular até 10 e então voltar a zero quando o aluno subir o *Ranking*. Ainda não existem outras formas declaradas de ganhar XP a não ser cumprinco os objetivos da *Classe*, porém, como em qualquer outro RPG mais moderno, você pode premiar o aluno com XP quando ele tem alguma ideia inventiva em *Classe*, quando ele for honesto ou em qualquer outro momento de realização pessoal dele que você achar que caiba.
+O único dever do XP, ao menos por hora, é acumular até 10 e então voltar a zero quando o aluno subir o *Ranking*. Ainda não existem outras formas declaradas de ganhar XP a não ser cumprir com os objetivos da *Classe*, porém, como em qualquer outro RPG mais moderno, você pode premiar o aluno com XP quando ele tem alguma ideia inventiva em *Classe*, quando ele for honesto ou em qualquer outro momento de realização pessoal dele que você achar que caiba. O máximode de XP diário que uma classe pode receber é 5, se não vira uma guerra, principalmente entre os Bards. Os Explorers só podem receber no máximo 3 XP por aula, pois é o preço de mexer no celular.
 
 O FP por outro lado pode ser encarado como um tipo de moeda. O uso dele é para comprar os *Benefícios* que serão descritos em sua própria seção. E como dito na seção sobre o *Ranking*, toda vez que subir em um o aluno adiquire 1 FP. Mas existe outra maneira, já que ele será usado como moeda, que é completando as *Quests*. Da mesma maneira que se o aluno fizer uma contribuição pessoal ele pode ser recompensado com um XP, se houve uma contribuição coletiva da sala para a aula ou para algum dos colegas, todos os presentes podem receber 1 FP.
 
@@ -82,3 +84,13 @@ Como não há limite de *Quest*, não precisa se preocupar em passar várias em 
  - Trabalhos escolares.
 
 Os exemplos acima são apenas possibilidades de *Quest*. Mas pode ser algo emergente, que aconteceu durante a sala. Não perca as oportunidades que aparecerem.
+
+### DICAS
+
+#### TURMAS GRANDES
+
+É dificil organizar o RPG se a turma tiver um certo número de alunos e estiver tudo solto. Se parecer melhor, dá pra dividir em grupos de três ou quatro alunos e ai cada um dos grupos tomam conta dos seus. Quando algum deles performar o objetivo da classe, então alguém do grupo deve dizer que isso aconteceu, para que ele ganhe o ponto.
+
+Quando a sala estiver dividida dessa maneira é possível fazer uma competição entre os grupos e dar algum tipo de premiação no final. Para que seja justo, o primeiro critério para decidir o vencedor é o número de alunos no *Ranking Diamond*. Nesse caso, se tiver grupos com números diferentes de alunos **(*Por exemplo, grupos com três e quatro alunos*)**, então o primeiro critério é que todos os membros do grupo estejam no *Ranking Diamond*, independente da quantidade de membros. Isso irá favorecer quem tem três membros no começo, mas eles não vão poder bagunçar e perder pontos, porque eles ganham no máximo 15 xp por aula e os grupos com quatro alunos ganham 20. Eles terão de se comportar pra perder o menor número de pontos possível. Quando empatar, o segundo valor de desempate é o número de XP. Quem tiver mais XP entre os grupos em que todos conseguiram o *Ranking Diamond* vence. Se empatar novamente, então é possível decidir como o grupo já estiver acostumado. Uma solução é fazer um game show com perguntas ministradas durante o período em que o RPG estiver sendo jogado, e quem irá fazer as perguntas são os outros alunos que não estiverem participando. Sendo que você terá que revisar essas perguntas, filtrar e apresentar as melhores quando o gameshow for acontecer.
+
+Seria interessante se em cada um dos grupos tivesse pelo menos um membro performando uma das classes básicas **(*Então, pelo menos um Knight, um Bard e um Mage*)** e se for usar quatro, a recomendação é que para que a quarta classe, se só as básicas estiverem disponíveis, é paraque seja um Bard. Junte os grupos e então faça eles decidirem quem pegará qual classe da configuração que você escolheu.
